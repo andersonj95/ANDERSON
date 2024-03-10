@@ -1,4 +1,4 @@
-package piedra.papel.y;
+package proyecto1;
 
 import java.util.Scanner;
 

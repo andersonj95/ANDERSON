@@ -2,7 +2,7 @@ package proyecto1;
 
 import java.util.Scanner;
 
-public class asterisco {
+public class piramide {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
